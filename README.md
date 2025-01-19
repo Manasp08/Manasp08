@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Manasp08
-- 👀 I’m interested in ...Android Development
+- 👀 I’m interested in ...Web Development
 - 🌱 I’m currently learning ...C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...https://www.linkedin.com/in/manas-sahu-b82a0b275?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app 
